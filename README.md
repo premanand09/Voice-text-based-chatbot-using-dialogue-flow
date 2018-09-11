@@ -7,3 +7,5 @@ Technologies used :
 2. Node.js - to exchange data between dialogue flow and frontend
 3. web service in java - to send & receive response from dialogue flow and to write backend business logic.
 4. html/css/javascript/bootstrap - for bulding UI of chatbot
+5. ngrok - for creating public url to local webserice running in tomcat.
+6. Apache tomcat - to run webservice on tomcat
